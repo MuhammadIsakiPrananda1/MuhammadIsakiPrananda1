@@ -350,10 +350,6 @@ graph LR
 
 <div align="center">
 
-### 🐍 Contribution Snake
-
-![Contribution Snake](https://github.com/MuhammadIsakiPrananda/MuhammadIsakiPrananda1/blob/output/github-contribution-grid-snake.svg)
-
 ### 📈 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MuhammadIsakiPrananda1&color=00FFFF&style=for-the-badge)
