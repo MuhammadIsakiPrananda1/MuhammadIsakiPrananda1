@@ -68,7 +68,7 @@ graph LR
 #### 💻 **Programming Languages & Frameworks**
 
 | Language/Framework | Proficiency | Use Case | Libraries/Tools |
-|-------------------|-------------|----------|-----------------|
+| ------------------- | ------------- | ---------- | ----------------- |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ⭐⭐⭐⭐⭐ | Security Tools, Automation, Scripting, Machine Learning | Requests, BeautifulSoup, Scapy, Paramiko, Socket, Flask, Django, Pandas, NumPy |
 | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) | ⭐⭐⭐⭐⭐ | System Administration, Automation, Shell Scripts | AWK, SED, Grep, Cron, SystemD |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ⭐⭐⭐⭐ | Web Development, XSS Testing, Frontend | Node.js, Express.js, React.js, jQuery, Axios |
@@ -86,7 +86,7 @@ graph LR
 #### 🌐 **Web Technologies & Frontend**
 
 | Technology | Proficiency | Use Case | Frameworks/Tools |
-|-----------|-------------|----------|------------------|
+| ----------- | ------------- | ---------- | ------------------ |
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ⭐⭐⭐⭐⭐ | Web Structure, Semantic Markup | Canvas, WebGL, Web Components |
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ⭐⭐⭐⭐ | Web Styling, Responsive Design | Flexbox, Grid, Animations |
 | ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white) | ⭐⭐⭐ | CSS Preprocessing, Variables | SCSS, Mixins, Nesting |
@@ -100,7 +100,7 @@ graph LR
 #### 🗄️ **Database & Query Languages**
 
 | Database | Proficiency | Use Case | Advanced Features |
-|----------|-------------|----------|-------------------|
+| ---------- | ------------- | ---------- | ------------------- |
 | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) | ⭐⭐⭐⭐⭐ | Relational DB Management, SQLi Testing | Joins, Subqueries, Stored Procedures, Triggers |
 | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ⭐⭐⭐⭐ | Web Applications, LAMP Stack | InnoDB, Replication, Partitioning |
 | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) | ⭐⭐⭐ | Advanced SQL, GIS Applications | JSON Support, Full-text Search, PostGIS |
@@ -113,7 +113,7 @@ graph LR
 #### 🔧 **Backend Frameworks & APIs**
 
 | Framework | Proficiency | Language | Use Case |
-|-----------|-------------|----------|----------|
+| ----------- | ------------- | ---------- | ---------- |
 | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) | ⭐⭐⭐⭐ | Python | Microservices, REST APIs, Security Tools |
 | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) | ⭐⭐⭐ | Python | Full-stack Web Apps, ORM, Admin Panel |
 | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) | ⭐⭐⭐ | Python | High-performance APIs, Async, Auto Docs |
@@ -126,7 +126,7 @@ graph LR
 #### 🔐 **Cybersecurity Domains**
 
 | Domain | Proficiency | Focus Areas |
-|--------|-------------|-------------|
+| -------- | ------------- | ------------- |
 | ![Web Security](https://img.shields.io/badge/Web_Security-FF6F00?style=flat&logo=googlechrome&logoColor=white) | ⭐⭐⭐⭐ | XSS, SQLi, CSRF, SSRF, File Upload |
 | ![Network Security](https://img.shields.io/badge/Network_Security-0078D4?style=flat&logo=cisco&logoColor=white) | ⭐⭐⭐⭐⭐ | Port Scanning, Packet Analysis, MITM |
 | ![Linux Security](https://img.shields.io/badge/Linux_Security-FCC624?style=flat&logo=linux&logoColor=black) | ⭐⭐⭐⭐ | Privilege Escalation, Hardening |
@@ -137,7 +137,7 @@ graph LR
 #### 🛡️ **Security Frameworks & Methodologies**
 
 | Framework | Application |
-|-----------|-------------|
+| ----------- | ------------- |
 | ![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat&logo=owasp&logoColor=white) | Web Application Security Testing |
 | ![PTES](https://img.shields.io/badge/PTES-333333?style=flat&logo=securityscorecard&logoColor=white) | Penetration Testing Methodology |
 | ![NIST](https://img.shields.io/badge/NIST-0C4B8E?style=flat&logo=security&logoColor=white) | Cybersecurity Framework |
@@ -149,7 +149,7 @@ graph LR
 #### 🔧 **Penetration Testing Tools**
 
 | Category | Tools | Expertise |
-|----------|-------|-----------|
+| ---------- | ------- | ----------- |
 | **Reconnaissance** | ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat) ![Masscan](https://img.shields.io/badge/Masscan-000000?style=flat) ![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=flat) | ⭐⭐⭐⭐⭐ |
 | **Web Testing** | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat) ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat) ![Nikto](https://img.shields.io/badge/Nikto-8E24AA?style=flat) | ⭐⭐⭐⭐ |
 | **Exploitation** | ![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=flat) ![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=flat) ![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=flat) | ⭐⭐⭐⭐ |
@@ -161,7 +161,7 @@ graph LR
 #### 🌐 **Networking & Infrastructure**
 
 | Technology | Proficiency | Implementation |
-|------------|-------------|----------------|
+| ------------ | ------------- | ---------------- |
 | ![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=flat&logo=cisco&logoColor=white) | ⭐⭐⭐⭐⭐ | Protocol Analysis, Troubleshooting |
 | ![Mikrotik](https://img.shields.io/badge/Mikrotik-293239?style=flat&logo=mikrotik&logoColor=white) | ⭐⭐⭐⭐ | Router Configuration, Firewall |
 | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white) | ⭐⭐⭐⭐ | Switching, Routing, VLANs |
@@ -174,7 +174,7 @@ graph LR
 #### 💾 **Database & Backend**
 
 | Database | Use Case | Proficiency |
-|----------|----------|-------------|
+| ---------- | ---------- | ------------- |
 | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | Relational DB, Web Apps | ⭐⭐⭐⭐ |
 | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) | Advanced SQL, Enterprise | ⭐⭐⭐ |
 | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | NoSQL, Document Store | ⭐⭐⭐ |
@@ -183,7 +183,7 @@ graph LR
 #### ⚙️ **DevOps, Cloud & Development Tools**
 
 | Tool/Platform | Purpose | Proficiency | Features |
-|---------------|---------|-------------|----------|
+| --------------- | --------- | ------------- | ---------- |
 | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | Version Control | ⭐⭐⭐⭐⭐ | Branching, Merging, Rebase, Cherry-pick |
 | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) | Code Repository, CI/CD | ⭐⭐⭐⭐⭐ | Actions, Pages, Projects, Issues |
 | ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white) | DevOps Platform | ⭐⭐⭐ | CI/CD Pipelines, Container Registry |
@@ -218,7 +218,7 @@ graph LR
 #### 📱 **Mobile Development**
 
 | Platform | Proficiency | Frameworks/Tools |
-|----------|-------------|------------------|
+| ---------- | ------------- | ------------------ |
 | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) | ⭐⭐⭐ | Java, Kotlin, Android Studio |
 | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black) | ⭐⭐ | Cross-platform, Expo |
 | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) | ⭐⭐ | Dart, Material Design |
@@ -226,7 +226,7 @@ graph LR
 #### 🎨 **Design & Multimedia Tools**
 
 | Tool | Purpose | Proficiency |
-|------|---------|-------------|
+| ------ | --------- | ------------- |
 | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) | UI/UX Design, Prototyping | ⭐⭐⭐ |
 | ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) | Graphic Design, Social Media | ⭐⭐⭐⭐ |
 | ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white) | Image Editing | ⭐⭐⭐ |
@@ -243,7 +243,7 @@ graph LR
 <div align="center">
 
 | Platform | Profile | Status |
-|----------|---------|--------|
+| ---------- | --------- | -------- |
 | ![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black) | Active Player | 🟢 Active |
 | ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white) | Learning Path | 🟢 Active |
 | ![PicoCTF](https://img.shields.io/badge/PicoCTF-0080FF?style=for-the-badge&logo=picoctf&logoColor=white) | Competitor | 🟡 Seasonal |
@@ -254,34 +254,21 @@ graph LR
 ---
 
 ## 📊 GitHub Statistics
+
 <div align="center">
 
   <table>
     <tr>
       <td width="50%" align="center">
-        <img 
-          src="https://github-readme-stats-sigma-five.vercel.app/api?username=MuhammadIsakiPrananda1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" 
-          alt="GitHub Stats" 
+        <img
+          src="https://streak-stats.demolab.com?user=MuhammadIsakiPrananda1&theme=radical&hide_border=true&cache_seconds=86400"
+          alt="GitHub Streak"
         />
       </td>
       <td width="50%" align="center">
-        <img 
-          src="https://streak-stats.demolab.com?user=MuhammadIsakiPrananda1&theme=radical&hide_border=true&cache_seconds=86400" 
-          alt="GitHub Streak" 
-        />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <img 
-          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MuhammadIsakiPrananda1&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" 
-          alt="Top Languages" 
-        />
-      </td>
-      <td width="50%" align="center">
-        <img 
-          src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhammadIsakiPrananda1&theme=radical&utcOffset=7" 
-          alt="Productive Time" 
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhammadIsakiPrananda1&theme=radical&utcOffset=7"
+          alt="Productive Time"
         />
       </td>
     </tr>
@@ -289,48 +276,46 @@ graph LR
 
 </div>
 
-<div align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadIsakiPrananda1&theme=react-dark&hide_border=true&area=true" 
-    width="100%" 
-    alt="Contribution Graph" 
-  />
-</div>
-
 ---
 
 ## 🎯 Current Projects
 
+<div align="center">
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 ### 🔐 Security Projects
-- 🛡️ Custom Vulnerability Scanner
-- 🔍 OSINT Automation Framework
-- 🌐 Network Monitoring Dashboard
-- 🐍 Python Security Toolbox
+
+🛡️ Custom Vulnerability Scanner<br/>
+🔍 OSINT Automation Framework<br/>
+🌐 Network Monitoring Dashboard<br/>
+🐍 Python Security Toolbox
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
 ### 💻 Development Projects
-- 🌐 CTF Challenge Platform
-- 📝 Security Blog & Writeups
-- 🤖 Telegram Security Bot
-- 📚 Cybersecurity Learning Resources
+
+🌐 CTF Challenge Platform<br/>
+📝 Security Blog & Writeups<br/>
+🤖 Telegram Security Bot<br/>
+📚 Cybersecurity Learning Resources
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-## 📫 Let's Connect!
+## 📫 Let's Connect
 
 <div align="center">
 
-### 🤝 Open for Collaboration On:
+### 🤝 Open for Collaboration On
 
 ```
 ✅ CTF Team Participation
@@ -340,7 +325,7 @@ graph LR
 ✅ Bug Bounty Hunting
 ```
 
-### 💬 Ask Me About:
+### 💬 Ask Me About
 
 `Web Security` • `Network Pentesting` • `Linux Administration` • `CTF Strategies` • `Programming` • `Career in Cybersecurity`
 
@@ -354,14 +339,4 @@ graph LR
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MuhammadIsakiPrananda1&color=00FFFF&style=for-the-badge)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer&text=Thanks%20for%20Visiting!%20%F0%9F%91%8B&fontSize=25&fontColor=fff&animation=twinkling&fontAlignY=75" width="100%"/>
-</div>
-
-<div align="center">
-  <i>⭐ Star my repositories if you find them interesting! ⭐</i>
 </div>
