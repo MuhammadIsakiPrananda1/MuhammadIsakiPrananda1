@@ -340,3 +340,5 @@ graph LR
 ![Profile Views](https://komarev.com/ghpvc/?username=MuhammadIsakiPrananda1&color=00FFFF&style=for-the-badge)
 
 </div>
+
+---
